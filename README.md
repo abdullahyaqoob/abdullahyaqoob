@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abdullahyaqoob
-- 👀 I’m interested in Blockchain Technologies
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m Full Stack and Blockchain Developer
+- 🌱 I’m currently learning Golang
+- 💞️ I’m collaborating with flexlab.io
+- 📫 My Email is abdullahyaqoob38@gmail.com
 
 <!---
 abdullahyaqoob/abdullahyaqoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
