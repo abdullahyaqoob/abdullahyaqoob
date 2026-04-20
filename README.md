@@ -11,29 +11,13 @@ I enjoy turning ideas into reliable products with clean code and practical user 
 - Work on backend logic, APIs, and frontend interfaces
 - Explore Golang for backend and systems development
 
-- ## Tech Stack
+## Tech Stack
 
-**Blockchain**
-- Solidity
-- Smart Contracts
-- Web3.js / Ethers.js
-- DApp Development
+**Blockchain:** Solidity, Web3.js, Ethers.js  
+**Frontend:** HTML, CSS, JavaScript, React, Next.js  
+**Backend:** Node.js, Express, REST APIs, MongoDB  
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB / PostgreSQL
-
-**Currently Learning**
-- Golang
+**Currently Learning:** Golang
 
 <!---
 abdullahyaqoob/abdullahyaqoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
